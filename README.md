@@ -1,3 +1,4 @@
+![logo](https://github.com/WattSanket/WattSanket/blob/main/.png)
 <h1 align="center">Hi 👋, I'm Sanket Watt</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
